@@ -1,5 +1,9 @@
 development updated
 updated it from feature branch
+<<<<<<< HEAD
 Committed from Remote
 remote commit 2
 remote commit 3
+=======
+committed from local
+>>>>>>> 64e8ce9 (committed from local)
